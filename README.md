@@ -1,4 +1,3 @@
-# Hackintosh-Opencore-Gigabyte-GA-B150M-D3H-QTJ2-EFI
 # GA-B150M-D3H  技嘉B150M + QTJ2
 
 **OpenCore : 0.7.7**
