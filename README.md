@@ -1,0 +1,1 @@
+# Hackintosh-Opencore-Gigabyte-GA-B150M-D3H-QTJ2-EFI
