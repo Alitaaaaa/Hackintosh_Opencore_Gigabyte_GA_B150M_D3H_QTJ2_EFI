@@ -22,7 +22,7 @@
 
 - Audio
 
-  [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=15 `)
+  [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=15`)
 
 - Microphone
 
