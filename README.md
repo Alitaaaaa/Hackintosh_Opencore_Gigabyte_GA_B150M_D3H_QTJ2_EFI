@@ -35,6 +35,6 @@
 - Bluetooth
 - Wi-Fi
 
-### Not work
+### Not working
 
 - Sleep mode
